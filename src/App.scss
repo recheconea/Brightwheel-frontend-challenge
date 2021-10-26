@@ -1,0 +1,12 @@
+/* Variables */
+@import './styles/colors.scss';
+
+/* Mixins */
+@import './styles/listItemMixin.scss';
+
+/* Components */
+@import './components/Header/styles.scss';
+@import './components/AnimalResultItem/styles.scss';
+@import './components/ProductResultItem/styles.scss';
+@import './components/CompaniesResultItem/styles.scss';
+@import './components/ResultsList/styles.scss';
